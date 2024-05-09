@@ -1,1 +1,2 @@
-document.firstElementChild.lastElementChild.lastElementChild.lastElementChild.innerHTML = "Faiyaz"
+document.query
+// document.firstElementChild.lastElementChild.lastElementChild.lastElementChild.innerHTML = "Faiyaz"
